@@ -38,7 +38,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-Set connection values in a local `.env` file. Do not commit credentials:
+Set connection values in a local `.env` file:
 
 ```text
 NEO4J_URI=bolt://127.0.0.1:7687
