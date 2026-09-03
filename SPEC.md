@@ -32,7 +32,7 @@ Design, implement, and evaluate a reproducible healthcare knowledge graph based 
 
 ## Evaluation
 
-The benchmark records elapsed wall-clock time, query family, system, dataset, status, and errors. Each query should be repeated under the same conditions. Expensive self-joins and cross-patient overlap queries must have a hard timeout and be reported as timed out rather than silently omitted.
+The benchmark records elapsed time, query family, system, dataset, status, and errors. Each query should be repeated under the same conditions. Expensive self-joins and cross-patient overlap queries must have a hard timeout and be reported as timed out rather than silently omitted.
 
 Primary comparison families:
 
