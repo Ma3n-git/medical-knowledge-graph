@@ -1,0 +1,21 @@
+system,database,dataset_size,query_name,family,cache_state,iteration,elapsed_ms
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,Cold Start,1,974.052
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,Warm Cache,2,857.983
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,Warm Cache,3,994.918
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,Warm Cache,4,655.017
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,Warm Cache,5,601.428
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,Cold Start,1,413.271
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,Warm Cache,2,201.692
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,Warm Cache,3,218.778
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,Warm Cache,4,229.8
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,Warm Cache,5,171.982
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,Cold Start,1,526.577
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,Warm Cache,2,282.047
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,Warm Cache,3,234.52
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,Warm Cache,4,170.524
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,Warm Cache,5,166.321
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,Cold Start,1,1321.535
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,Warm Cache,2,539.846
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,Warm Cache,3,443.407
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,Warm Cache,4,465.283
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,Warm Cache,5,481.15

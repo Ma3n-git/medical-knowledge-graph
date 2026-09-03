@@ -1,0 +1,13 @@
+system,database,dataset_size,query_name,family,avg_elapsed_ms
+Neo4j,Neo4j_5K,5K,centrality_degree_ranking,centrality,1208.8664
+Neo4j,Neo4j_5K,5K,condition_frequency_top_20,community_detection,175.0116
+Neo4j,Neo4j_5K,5K,high_risk_patients,risk_stratification,216.7234
+Neo4j,Neo4j_5K,5K,polypharmacy_patients,medication_pattern,53.1826
+SQLite,SQLite_10K,10K,centrality_degree_ranking,centrality,1959.9653999999998
+SQLite,SQLite_10K,10K,condition_frequency_top_20,community_detection,1945.7671999999998
+SQLite,SQLite_10K,10K,high_risk_patients,risk_stratification,1951.4634
+SQLite,SQLite_10K,10K,polypharmacy_patients,medication_pattern,3498.2852
+SQLite,SQLite_5K,5K,centrality_degree_ranking,centrality,2174.2826
+SQLite,SQLite_5K,5K,condition_frequency_top_20,community_detection,2125.5612
+SQLite,SQLite_5K,5K,high_risk_patients,risk_stratification,1948.577
+SQLite,SQLite_5K,5K,polypharmacy_patients,medication_pattern,2057.9524

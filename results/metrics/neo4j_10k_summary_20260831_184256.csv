@@ -1,0 +1,5 @@
+system,database,dataset_size,query_name,family,avg_elapsed_ms
+Neo4j,Neo4j_10K,10K,centrality_degree_ranking,centrality,816.6796
+Neo4j,Neo4j_10K,10K,condition_frequency_top_20,community_detection,247.10460000000003
+Neo4j,Neo4j_10K,10K,high_risk_patients,risk_stratification,275.9978
+Neo4j,Neo4j_10K,10K,polypharmacy_patients,medication_pattern,650.2442
